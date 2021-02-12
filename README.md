@@ -1,13 +1,6 @@
 # GenPass
 Password generator software
- _____           ______  ___          
-|  __ \          | ___ \/ _ \         
-| |  \/ ___ _ __ | |_/ / /_\ \___ ___ 
-| | __ / _ \ '_ \|  __/|  _  / __/ __|
-| |_\ \  __/ | | | |   | | | \__ \__ \
- \____/\___|_| |_\_|   \_| |_/___/___/
-                                      
-                                      
+
 ######################################
 
 -This software allows you to generate and save some passwords for websites.
